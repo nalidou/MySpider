@@ -1,0 +1,4 @@
+python 2.7  or 3.*
+
+需要urllib2  beautifulsoup
+可以用pip安装上面两个
